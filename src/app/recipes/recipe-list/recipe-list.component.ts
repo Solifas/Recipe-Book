@@ -11,6 +11,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe('A Test Recipe','Crispy Quesadillas with Guacamole', 'https://i1.wp.com/www.eatthis.com/wp-content/uploads/2019/10/pumpkin-pad-thai-recipe.jpg?fit=1200%2C879&ssl=1'),
     new Recipe('A Test Recipe','Crispy Quesadillas with Guacamole', 'https://i1.wp.com/www.eatthis.com/wp-content/uploads/2019/10/pumpkin-pad-thai-recipe.jpg?fit=1200%2C879&ssl=1'),
     new Recipe('A Test Recipe','Crispy Quesadillas with Guacamole', 'https://i1.wp.com/www.eatthis.com/wp-content/uploads/2019/10/pumpkin-pad-thai-recipe.jpg?fit=1200%2C879&ssl=1')
+    ,new Recipe('A Test Recipe','Crispy Quesadillas with Guacamole', 'https://i1.wp.com/www.eatthis.com/wp-content/uploads/2019/10/pumpkin-pad-thai-recipe.jpg?fit=1200%2C879&ssl=1')
   ];
   constructor() { }
 
